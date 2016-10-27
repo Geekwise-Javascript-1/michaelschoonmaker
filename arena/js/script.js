@@ -277,7 +277,7 @@ function setLoginStorage(){
 }
 
 setLoginStorage();
-*/
+*//
 
 
 if( !localStorage.getItem('hero')){
